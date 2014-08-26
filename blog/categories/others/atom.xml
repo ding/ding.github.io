@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Others | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/others/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-08-26T21:36:05+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Category: Others | Just want to write something about ...]]></title>
+  <link href="http://ding.github.io/blog/categories/others/atom.xml" rel="self"/>
+  <link href="http://ding.github.io/"/>
+  <updated>2014-08-26T21:56:26+08:00</updated>
+  <id>http://ding.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Yong Ding]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[也需要Hello World一下吧]]></title>
-    <link href="http://yoursite.com/blog/2014/08/26/my-first-page/"/>
+    <link href="http://ding.github.io/blog/2014/08/26/my-first-page/"/>
     <updated>2014-08-26T21:33:01+08:00</updated>
-    <id>http://yoursite.com/blog/2014/08/26/my-first-page</id>
+    <id>http://ding.github.io/blog/2014/08/26/my-first-page</id>
     <content type="html"><![CDATA[<h1>欢迎访问我的博客</h1>
 
 <h1>ようこそう</h1>
