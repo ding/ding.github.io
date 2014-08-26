@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2014-08-26T21:36:05+08:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[也需要Hello World一下吧]]></title>
+    <link href="http://yoursite.com/blog/2014/08/26/my-first-page/"/>
+    <updated>2014-08-26T21:33:01+08:00</updated>
+    <id>http://yoursite.com/blog/2014/08/26/my-first-page</id>
+    <content type="html"><![CDATA[<h1>欢迎访问我的博客</h1>
+
+<h1>ようこそう</h1>
+]]></content>
+  </entry>
+  
+</feed>
