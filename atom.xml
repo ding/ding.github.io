@@ -4,7 +4,7 @@
   <title><![CDATA[Just want to write something about ...]]></title>
   <link href="http://ding.github.io/atom.xml" rel="self"/>
   <link href="http://ding.github.io/"/>
-  <updated>2014-08-26T22:22:04+08:00</updated>
+  <updated>2014-08-27T13:16:40+08:00</updated>
   <id>http://ding.github.io/</id>
   <author>
     <name><![CDATA[Yong Ding]]></name>
@@ -20,7 +20,13 @@
     <id>http://ding.github.io/blog/2014/08/26/my-first-page</id>
     <content type="html"><![CDATA[<h1>欢迎访问我的博客</h1>
 
-<h1>ようこそう</h1>
+<p>ようこそう</p>
+
+<p>欢迎光临</p>
+
+<p>开辟了好几块自留地，</p>
+
+<p>很无奈都被伟大的GW给无情的遮挡了。</p>
 ]]></content>
   </entry>
   
